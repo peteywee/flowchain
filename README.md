@@ -21,6 +21,10 @@ FlowChain is an AI-native build protocol that guides projects from raw idea to r
 7. **Iteration / Release**
 
 ## Enforced Rules
+- Unfinished logic or references → converted into GitHub Issues
+
+- Unfinished logic or references → converted into GitHub Issues
+
 
 - ❌ Cannot skip validation
 - ❌ Cannot start build before design is locked
