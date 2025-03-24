@@ -1,0 +1,11 @@
+name: Design Gate
+
+on: [pull_request]
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate Design Completion
+        run: |
+          grep '"design_ready": true' flow_state.json || { echo "❌ Design not ready"; exit 1; }

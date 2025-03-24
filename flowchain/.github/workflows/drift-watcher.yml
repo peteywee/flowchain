@@ -1,0 +1,10 @@
+name: Drift Watcher
+
+on: [pull_request]
+
+jobs:
+  drift_check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for doc drift
+        run: echo "🕵️ Would compare FEATURES.md to code changes here"

@@ -1,0 +1,7 @@
+name: Design Gate
+on: [pull_request]
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo '✅ Design ready check'

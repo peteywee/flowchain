@@ -1,0 +1,13 @@
+name: Validate Project
+
+on: [pull_request]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Validation File
+        run: |
+          if ! [ -f PROJECT_VALIDATOR.md ]; then
+            echo "❌ PROJECT_VALIDATOR.md missing"; exit 1
+          fi

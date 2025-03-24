@@ -1,0 +1,14 @@
+name: Build Phase - Generate Issues
+
+on:
+  push:
+    branches:
+      - build/**
+      - main
+
+jobs:
+  generate_issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Simulate Issue Generator
+        run: echo "📝 Would generate issues here based on FEATURES.md, DESIGN_GUIDE.md, etc."

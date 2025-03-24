@@ -1,0 +1,14 @@
+{
+  "project_name": "flowchain",
+  "current_step": "scaffold_generated",
+  "last_validated_score": 9,
+  "docs_generated": true,
+  "design_ready": false,
+  "build_started": false,
+  "override_flags": [],
+  "history": [
+    "idea_captured",
+    "validation_passed",
+    "scaffold_generated"
+  ]
+}

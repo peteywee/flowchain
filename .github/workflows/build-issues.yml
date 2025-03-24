@@ -1,0 +1,9 @@
+name: Build Issues
+on:
+  push:
+    branches: [main, build/**]
+jobs:
+  build_issues:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo '📝 Would generate issues here'

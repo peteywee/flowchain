@@ -1,0 +1,7 @@
+name: Drift Watcher
+on: [pull_request]
+jobs:
+  drift:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo '🔍 Would check for doc/code drift'

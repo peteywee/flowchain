@@ -1,0 +1,7 @@
+name: Scaffold Check
+on: [pull_request]
+jobs:
+  scaffold:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo '✅ Scaffold check step'
