@@ -1,0 +1,21 @@
+{
+  "project_name": "MyProject",
+  "description": "<!-- PLACEHOLDER -->",
+  "purpose": "<!-- PLACEHOLDER -->",
+  "tech_stack": {
+    "languages": [],
+    "frameworks": [],
+    "platforms": [],
+    "tools": []
+  },
+  "features": ["<!-- PLACEHOLDER -->"],
+  "integrations": {
+    "EXAMPLE_TOOL": "Description"
+  },
+  "definition_of_done": "<!-- PLACEHOLDER -->",
+  "flowchain_version": "1.0-draft",
+  "state_dependencies": {
+    "requires": [],
+    "unlocks": []
+  }
+}

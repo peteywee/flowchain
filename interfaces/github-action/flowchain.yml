@@ -1,0 +1,2 @@
+# PLACEHOLDER: GitHub Action for FlowChain validation
+# This will run init.sh and lock phases during PRs or pushes
