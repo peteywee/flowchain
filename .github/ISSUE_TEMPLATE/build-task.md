@@ -1,6 +1,10 @@
 ---
 name: Build Task
 about: Auto-generated FlowChain task
+title: need
+labels: documentation, good first issue
+assignees: peteywee
+
 ---
 
 ### Description
