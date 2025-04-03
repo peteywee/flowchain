@@ -1,3 +1,9 @@
+---
+title: "Flex_Logic"
+env: global
+version: 0.1.0
+---
+
 # Flex Logic – FlowChain
 
 ## Optional Layers

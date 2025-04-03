@@ -1,3 +1,9 @@
+---
+title: "Flowchain_Builder_Guide"
+env: global
+version: 0.1.0
+---
+
 # FlowChain Builder Guide
 
 This guide helps developers, contributors, or agents working with a FlowChain-enabled project.

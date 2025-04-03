@@ -1,3 +1,9 @@
+---
+title: "Technical_Guide"
+env: global
+version: 0.1.0
+---
+
 # Technical Guide – FlowChain
 
 ## Architecture

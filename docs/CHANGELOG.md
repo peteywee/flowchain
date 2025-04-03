@@ -1,3 +1,9 @@
+---
+title: "Changelog"
+env: global
+version: 0.1.0
+---
+
 # Changelog
 
 ## [Unreleased]

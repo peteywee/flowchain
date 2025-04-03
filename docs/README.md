@@ -1,3 +1,9 @@
+---
+title: "Readme"
+env: global
+version: 0.1.0
+---
+
 # FlowChain
 
 FlowChain is an AI-native build protocol that guides projects from raw idea to release with structured checkpoints, enforced validation, and documentation-first execution. It prevents broken systems, preserves developer flow, and ensures long-term traceability.
